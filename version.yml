@@ -1,0 +1,3 @@
+channel: v1.17.18
+commit: dd28fd52a61c96601b0ede68328d9a9a0be2374f
+target: x86_64-pc-windows-msvc
